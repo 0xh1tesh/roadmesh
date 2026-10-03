@@ -1,0 +1,11 @@
+{
+  "name": "roadmesh",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zero-hardware V2X: phones warn each other about road hazards over a Bluetooth mesh, no internet needed.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "npx --yes serve -l 4178 ."
+  }
+}
